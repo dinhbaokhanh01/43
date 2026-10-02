@@ -1,0 +1,9 @@
+target/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+src/main/resources/db.properties
+*.log
